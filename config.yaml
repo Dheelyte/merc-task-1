@@ -1,0 +1,10 @@
+# Runtime options that are not secrets. Environment variables override
+# anything in app/config.py; this file only selects pluggable components.
+app:
+  title: Notes API
+  default_page_size: 20
+
+export:
+  # dotted module name, loaded at runtime (see app/serializers.py)
+  serializer: orjson
+  indent: true
