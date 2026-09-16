@@ -22,3 +22,8 @@ python-json-logger==4.2.0
 psutil==7.2.2
 humanize==4.16.0
 redis==8.1.0
+tenacity==9.2.1
+prometheus-client==0.26.0
+celery==5.6.3
+faker==40.44.0
+freezegun==1.5.5
