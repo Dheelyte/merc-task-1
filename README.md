@@ -40,3 +40,4 @@ Environment variables prefixed with `NOTES_` (see `app/config.py`) and a
 selected in `config.yaml`. `scripts/serve_prod.sh` is the launcher we use on
 the VM.
 # merc-task-1
+# merc-task-1
