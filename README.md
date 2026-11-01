@@ -39,3 +39,4 @@ Environment variables prefixed with `NOTES_` (see `app/config.py`) and a
 `.env` file are supported. Pluggable pieces such as the export serializer are
 selected in `config.yaml`. `scripts/serve_prod.sh` is the launcher we use on
 the VM.
+# merc-task-1
